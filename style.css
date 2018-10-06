@@ -1,0 +1,31 @@
+body{
+background-color:grey;
+}
+
+header{
+display:block;
+background-color:white;
+border: solid black 0.2em;}
+
+h1{
+color:orange;
+text-align: center;
+text-decoration:underline;
+}
+h2{
+text-align: center;}
+
+main{
+display:block;
+background-color:white;
+border: solid black 0.2em;
+margin-top:1em;
+font-size:1em;
+}
+
+a:hover{
+color: red;
+}
+
+a{
+color:blue}
